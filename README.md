@@ -1,8 +1,8 @@
 <!-- GitHub Profile README by Revalinda -->
 
-<a href="https://ibb.co/8H45sTW">
-  <img src="https://i.ibb.co/DZgCWsx/Untitled-1280-x-640-px.png" alt="Untitled-1280-x-640-px" border="0">
-</a>
+<p align="center">
+  <img src="https://i.ibb.co/DZgCWsx/Untitled-1280-x-640-px.png" width="85%" alt="Revalinda Creates" />
+</p>
 
 <h1 align="center">Hi, I'm <b>Revalinda Putri Hadinata</b></h1>
 <p align="center">
