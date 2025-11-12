@@ -25,8 +25,10 @@
 
 ### My Design Tools & Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,html,css,java,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,java,vscode,github" /><br>
+  <img src="https://img.shields.io/badge/Canva-Design%20Tool-FFC0CB?style=flat-square&logo=Canva&logoColor=white"/>
 </p>
+
 
 ---
 
