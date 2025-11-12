@@ -14,7 +14,7 @@
 ### About Me
 > “Design is not just what it looks like and feels like, design is how it works.” – Steve Jobs  
 
-- 📍 Based in Indonesia   
+- 📍 From **Semarang**, currently studying in **Malang, Indonesia**  
 - 💻 Exploring the world of **UI/UX Design** and **Frontend Development**  
 - 🎓 Currently studying at **Politeknik Negeri Malang (Polinema)**
 - 🪞 Passionate about **visual storytelling** & **clean design**  
@@ -43,7 +43,7 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/revalinda-putri-hadinata" target="_blank">
+  <a href="https://www.linkedin.com/in/revalinda-putri-hadinata-107435317?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/rreyvlin" target="_blank">
