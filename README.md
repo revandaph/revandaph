@@ -35,43 +35,31 @@
 
 ### GitHub Stats
 <p align="center">
-
-  <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&title_color=1a1a2e&icon_color=ff8fb6&text_color=1a1a2e&bg_color=ffc8d8&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true" 
     height="165"
   />
-
-  <!-- FIXED STREAK (soft pink aesthetic + works 100%) -->
+  
   <img 
-    src="https://streak-stats.demolab.com/?user=revalindaph22&hide_border=true&background=ffc8d8&ring=ff8fb6&fire=ff70a6&currStreakLabel=1a1a2e&sideLabels=1a1a2e&currStreakNum=1a1a2e&sideNums=1a1a2e&dates=1a1a2e" 
+    src="https://streak-stats.demolab.com?user=revalindaph22" 
     height="165"
   />
-
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact&title_color=1a1a2e&text_color=1a1a2e&bg_color=ffc8d8&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact" 
     height="165"
   />
 </p>
 
-### GitHub Trophy
+### 🏆 GitHub Trophy
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=revalindaph22
-    &theme=flat
-    &no-frame=true
-    &no-bg=true
-    &margin-w=15
-    &row=1
-    &column=6
-    &title=Followers,Stars,Commits,Repositories,Issues,PullRequest" 
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=revalindaph22" 
   />
 </p>
+
 
 ---
 
