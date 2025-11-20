@@ -33,35 +33,11 @@
 ---
 
 
-<h2 align="center" style="color:#F8A9B8;">🌷 GitHub Stats</h2>
-
+### GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true" 
-    height="165"
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=revalindaph22" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revalindaph22&theme=rose_pine&hide_border=true" height="160"/>
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact" 
-    height="165"
-  />
-</p>
-
-<h2 align="center" style="color:#F8A9B8;">🏆 GitHub Trophy</h2>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=revalindaph22" 
-  />
-</p>
-
 
 
 ---
