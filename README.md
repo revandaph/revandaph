@@ -33,29 +33,56 @@
 ---
 
 
-### GitHub Stats
+### Github Stats
+
 <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+
   <!-- Main Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&title_color=ff9ebd&icon_color=ff7aaa&text_color=d17288&bg_color=ffe6f0&hide_border=true" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&hide_border=true&bg_color=FFD1DC&title_color=FF6C9F&text_color=7a004e&icon_color=FF85AD" height="160"/>
 
   <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=revalindaph22&background=ffe6f0&stroke=ffb6cc&ring=ff7aaa&fire=ff9ebd&currStreakNum=d17288&sideNums=d17288&currStreakLabel=ff7aaa&sideLabels=ff7aaa&dates=d17288&hide_border=true" 
-    height="165"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=revalindaph22&hide_border=true&background=FFD1DC&stroke=FF6C9F&ring=FF6C9F&fire=FF85AD&currStreakLabel=FF6C9F&sideLabels=FF6C9F&dates=7a004e&sideNums=FF6C9F" height="160"/>
 </p>
 
-<!-- Language Card -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact&title_color=ff9ebd&text_color=d17288&bg_color=ffe6f0&hide_border=true" 
-    height="165"
-  />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact&hide_border=true&bg_color=FFD1DC&title_color=FF6C9F&text_color=7a004e" height="150">
+
 </p>
 
+---
+
+<h2 align="center">Profile Summary Cards</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revalindaph22&theme=pink" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=revalindaph22&theme=pink" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revalindaph22&theme=pink" height="180"/>
+</p>
+
+---
+
+<h2 align="center">Soft Girl Badges</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Soft%20Girl-%F0%9F%A6%BC-FFB7CE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Aesthetic-%F0%9F%8C%B8-FF9EBB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coding%20Mood-%F0%9F%92%97-FF6C9F?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png">
+</p>
 
 
 ---
