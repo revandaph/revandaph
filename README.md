@@ -34,14 +34,34 @@
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&bg_color=fff6f7&title_color=f4a9b8&text_color=6e5c5c&icon_color=f4a9b8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact&bg_color=fff6f7&title_color=f4a9b8&text_color=6e5c5c)
-![GitHub Streak](https://streak-stats.demolab.com?user=revalindaph22&background=fff6f7&ring=f4a9b8&fire=f4a9b8&currStreakLabel=f4a9b8&sideNums=6e5c5c&sideLabels=f4a9b8)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=revalindaph22&bg_color=fff6f7&color=f4a9b8&line=f4a9b8&point=f4a9b8&area=true&hide_border=false)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=revalindaph22&theme=flat&no-frame=true&no-bg=true&title_color=f4a9b8&text_color=6e5c5c)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f4a9b8&height=40&section=footer"/>
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&bg_color=fff6f7&title_color=f4a9b8&text_color=6e5c5c&icon_color=f4a9b8" 
+    height="160px"
+  />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact&bg_color=fff6f7&title_color=f4a9b8&text_color=6e5c5c" 
+    height="160px"
+  />
+  <!-- Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=revalindaph22&background=fff6f7&ring=f4a9b8&fire=f4a9b8&currStreakLabel=f4a9b8&sideNums=6e5c5c&sideLabels=f4a9b8" 
+    height="180px"
+  />
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=revalindaph22&bg_color=fff6f7&color=f4a9b8&line=f4a9b8&point=f4a9b8&area=true&hide_border=false" 
+    width="100%"
+  />
+  <!-- Trophy -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=revalindaph22&theme=flat&no-frame=true&no-bg=true&title_color=f4a9b8&text_color=6e5c5c" 
+    width="100%"
+  />
 </p>
+
 
 
 
