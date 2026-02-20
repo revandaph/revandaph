@@ -11,7 +11,7 @@
 > “Design is not just what it looks like and feels like, design is how it works.” – Steve Jobs  
 
 - 📍 From **Semarang**, currently studying in **Malang, Indonesia**  
-- 💻 Exploring the world of **UI/UX Design** and **Frontend Development**  
+- 💻 Exploring the world of **UI/UX Design** and **Business Analyst**  
 - 🎓 Currently studying at **Politeknik Negeri Malang (Polinema)**
 - 🪞 Passionate about **visual storytelling** & **clean design**  
 - ☁️ Loves soft tones, minimal layouts, and pastel aesthetics  
