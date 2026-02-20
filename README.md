@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm <b>Revalinda Putri Hadinata</b></h1>
 <p align="center">
-  💻 Aspiring <b>UI/UX Designer</b> & <b>Frontend Developer</b> | 🎨 Creative Thinker | ✨ Soft Aesthetic Soul
+  💻 Aspiring <b>UI/UX Designer</b> & <b>Business Analyst</b> | 🎨 Creative Thinker | ✨ Soft Aesthetic Soul
 </p>
 
 ---
