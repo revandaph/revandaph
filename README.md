@@ -21,7 +21,7 @@
 
 ### My Design Tools & Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,java,flutter,vscode,github" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,java,flutter,python,vscode,github" /><br>
   <img src="https://img.shields.io/badge/Canva-%23FFB6C1.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
